@@ -1,0 +1,21 @@
+
+uni-button[type=scan] {
+		background-color: #6C757D;
+}
+uni-button[type=scan] {
+		padding-left: 0px;
+		text-align: initial;
+}
+.imgbox {
+		position: relative;
+		overflow: hidden;
+		padding-bottom: 100%;
+		/* outline: 1px solid green; */
+}
+.imgbox ._img {
+		position: absolute;
+		width: 85%;
+		height: 85%;
+		margin: 8%;
+}
+

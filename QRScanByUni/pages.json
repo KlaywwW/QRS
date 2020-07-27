@@ -1,0 +1,46 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "生产扫码系统"
+		}
+	}, {
+		"path": "pages/notNo/notNo",
+		"style": {
+			"navigationBarTitleText": "无工序扫码"
+			// "backgroundColor":"#F4F5F6"
+		}
+	}, {
+		"path": "pages/haveNo/haveNo",
+		"style": {
+			"navigationBarTitleText": "有工序扫码"
+		}
+	}, {
+		"path": "pages/seqquery/seqquery",
+		"style": {
+			"navigationBarTitleText": "扎号信息"
+
+		}
+	}, {
+		"path": "pages/adminPanel/adminPanel",
+		"style": {
+			"navigationBarTitleText": "管理面板"
+		}
+	}, {
+		"path": "pages/inWarehouse/inWarehouse",
+		"style": {
+			"navigationBarTitleText": "进仓"
+		}
+	}, {
+		"path": "pages/outWarehouse/outWarehouse",
+		"style": {
+			"navigationBarTitleText": "出厂"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}

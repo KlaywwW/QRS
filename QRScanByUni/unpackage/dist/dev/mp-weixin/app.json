@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/notNo/notNo",
+    "pages/haveNo/haveNo",
+    "pages/seqquery/seqquery",
+    "pages/adminPanel/adminPanel",
+    "pages/inWarehouse/inWarehouse",
+    "pages/outWarehouse/outWarehouse"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap26.json"
+}

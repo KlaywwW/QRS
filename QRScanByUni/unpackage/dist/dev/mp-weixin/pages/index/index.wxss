@@ -1,0 +1,9 @@
+
+uni-button[type=info] {
+	color: #fff;
+	background-color: #138496;
+}
+button {
+	margin-top: 5px;
+}
+
